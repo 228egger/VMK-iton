@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Documents/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/VKton/2/mlruns/0/f1a8fde49fea41c2bce2cd99cec6eb8b/artifacts
+end_time: 1713276839979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a8fde49fea41c2bce2cd99cec6eb8b
+run_name: Baseline
+run_uuid: f1a8fde49fea41c2bce2cd99cec6eb8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713276836629
+status: 3
+tags: []
+user_id: macbook
